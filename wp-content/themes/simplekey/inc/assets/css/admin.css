@@ -1,0 +1,6 @@
+/* Admin CSS */
+.rs-update-notice-wrap,
+.vc_license-activation-notice,
+.redux-dev-mode-notice-container.redux-dev-qtip{
+	display:none;
+}
